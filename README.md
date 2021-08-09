@@ -8,7 +8,7 @@ This was mainly meant for me to get used to the curl library, but I also wanted 
 This wrapper doesnt parse the JSON given back from the API.
 Instead, it is left as is for simplicity's sake.
 
-## TODO
+## Todo
 * Support for endpoints requiring authencation.
 
 ## Dependencies
